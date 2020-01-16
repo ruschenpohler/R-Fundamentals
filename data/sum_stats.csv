@@ -1,0 +1,8 @@
+"","       country","     year","     pop","   continent","   lifeExp","  gdpPercap"
+"","Afghanistan:  12  ","1952   :142  ","Min.   :6.001e+04  ","Africa  :624  ","Min.   :23.60  ","Min.   :   241.2  "
+"","Albania    :  12  ","1957   :142  ","1st Qu.:2.794e+06  ","Americas:300  ","1st Qu.:48.20  ","1st Qu.:  1202.1  "
+"","Algeria    :  12  ","1962   :142  ","Median :7.024e+06  ","Asia    :396  ","Median :60.71  ","Median :  3531.8  "
+"","Angola     :  12  ","1967   :142  ","Mean   :2.960e+07  ","Europe  :360  ","Mean   :59.47  ","Mean   :  7215.3  "
+"","Argentina  :  12  ","1972   :142  ","3rd Qu.:1.959e+07  ","Oceania : 24  ","3rd Qu.:70.85  ","3rd Qu.:  9325.5  "
+"","Australia  :  12  ","1977   :142  ","Max.   :1.319e+09  ",NA,"Max.   :82.60  ","Max.   :113523.1  "
+"","(Other)    :1632  ","(Other):852  ",NA,NA,NA,NA
